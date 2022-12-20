@@ -8,4 +8,8 @@ def twoSum( nums , target):
 
 
 
-print(twoSum(nums = [3,3], target = 6))
+# print(twoSum(nums = [3,3], target = 6))
+
+
+l = {1,2,3,4}
+print(type(l))
